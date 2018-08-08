@@ -8,7 +8,7 @@ class Card extends Component {
         super()
 
         this.state = {
-            color: 'BLUE',
+            sxcolor: 'BLUE',
             pluralNoun: ''
         }
 
